@@ -1,0 +1,52 @@
+
+        h1{
+            color: blue;
+            background-color: yellow;
+            height: 90px;
+            width: 80%;
+            font-family: sans-serif;
+        }
+        img{
+            width: 80%;
+        }
+        #specific{
+            color: rgb(238, 238, 238);
+            background-color: rgb(33, 16, 133);
+            font-size: 20px;
+            width: 80%;
+        }
+        .sample{
+            font-size: 23px;
+            color: royalblue;
+            background-color: saddlebrown;
+            font-family: fantasy;
+            width: 80%;
+        }
+        .span{
+            color: red;
+            font-size: 40px;
+        }
+        .text{
+            color: royalblue;
+            font-size: 25;
+            font-family: unset;
+            border: 10px solid red;
+            border-radius: 20px;
+            margin: 10px 50px;
+            padding: 20px 100px;
+            
+        }
+        .css_box_model{
+            border: 1px solid blue;
+            width: 600px;
+            height: 200px;
+            margin: 20px;
+            padding: 10px;
+        }
+        .box{
+            border: 10px solid black;
+            margin: 10px;
+            width: 22%;
+            float: left;
+        }
+        
